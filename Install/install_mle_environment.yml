@@ -1,0 +1,27 @@
+name: mle
+channels:  
+  - anaconda
+  
+dependencies:
+  - python=3.8
+  - cloudpickle
+  - graphviz
+  - joblib
+  - jupyterlab
+  - llvmlite
+  - nltk 
+  - numba
+  - networkx
+  - pandas  
+  - pydot
+  - requests  
+  - scikit-learn  
+  - seaborn  
+  - statsmodels
+  - sympy  
+  - tqdm   
+  - bokeh
+  - pip:
+    - econml
+    
+      
