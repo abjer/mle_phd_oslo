@@ -1,3 +1,11 @@
 *.pyc
 */.ipynb_checkpoints/*
+*.ipynb_checkpoints/*
 *_mledev*
+*__pycache__*
+*raschka*
+base/fig/*
+base/data/* 
+*.DS_store 
+*ch*.py
+session_1/iris*

@@ -4,10 +4,12 @@ channels:
   
 dependencies:
   - python=3.8
+  - bokeh
   - cloudpickle
   - graphviz
   - joblib
   - jupyterlab
+  - keras
   - llvmlite
   - nltk 
   - numba
@@ -19,8 +21,7 @@ dependencies:
   - seaborn  
   - statsmodels
   - sympy  
-  - tqdm   
-  - bokeh
+  - tqdm     
   - pip:
     - econml
     
